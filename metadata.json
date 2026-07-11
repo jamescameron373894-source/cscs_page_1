@@ -1,0 +1,6 @@
+{
+  "name": "UK Construction Certification",
+  "description": "Get your CSCS card and NVQ qualification fast with expert guidance, trusted support, and UK-wide service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
